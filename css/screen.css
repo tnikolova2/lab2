@@ -1,7 +1,6 @@
 body{
   background-image: url(https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg);
   background-size: 100% auto;
-  background-position: absolute;
   position: sticky;
   margin: 0 auto;
   width: 30%;
@@ -12,7 +11,7 @@ body{
 #title{
   text-align: center;
   padding-top: 10px;
-  padding-left: 50px
+  padding-left: 50px;
   font-family: Arial, sans-serif;
   font-size: 3em;
   font-weight: bold;
@@ -97,9 +96,7 @@ input[type=submit]:hover {
     background-image: url(https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg);
     background-size: 100% auto;
     background-size: 1200px 800px;
-    background-position: absolute;
     position: sticky;
-
   }
 
   #title{
@@ -169,7 +166,6 @@ input[type=submit]:hover {
   }
 
   input[type=submit] {
-
     padding: 16px 32px;
     text-align: center;
     display: inline-block;
@@ -191,7 +187,6 @@ input[type=submit]:hover {
   body{
     background-image: url(https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg);
     background-size: 100% auto;
-    background-position: absolute;
     position: sticky;
     margin: 0 auto;
     width: 30%;
