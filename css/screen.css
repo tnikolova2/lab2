@@ -91,7 +91,7 @@ input[type=submit]:hover {
   color: Azure;
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 320px) {
   body{
     background-image: url(https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg);
     background-size: 100% auto;
@@ -183,7 +183,7 @@ input[type=submit]:hover {
     color: Azure;
   }
 }
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 768px) {
   body{
     background-image: url(https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg);
     background-size: 100% auto;
